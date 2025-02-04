@@ -1,3 +1,6 @@
 # GoLang
 Treinamento
-Teste
+
+
+https://go.dev/play/
+
