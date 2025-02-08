@@ -1,7 +1,7 @@
 # GoLang
 Treinamento
 
-https://www.youtube.com/watch?v=Y5HamAGQzUg&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&index=48
+https://www.youtube.com/watch?v=i_3O4ooSVCM&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&index=59
 
 https://go.dev/play/
 
