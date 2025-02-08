@@ -8,7 +8,7 @@ https://go.dev/play/
 https://pkg.go.dev/
 
 Exercicio2:
-https://go.dev/play/p/RsztCZ5UBPP
+https://go.dev/play/p/w4wJM_FF9v_a
 
 Exercicio3:
 https://go.dev/play/p/uqUX7Gu35VX
