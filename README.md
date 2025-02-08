@@ -9,3 +9,6 @@ https://pkg.go.dev/
 
 Exercicio2:
 https://go.dev/play/p/RsztCZ5UBPP
+
+Exercicio3:
+https://go.dev/play/p/uqUX7Gu35VX
