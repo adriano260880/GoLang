@@ -12,3 +12,5 @@ https://go.dev/play/p/w4wJM_FF9v_a
 
 Exercicio3:
 https://go.dev/play/p/uqUX7Gu35VX
+
+json.Marshal: https://go.dev/play/p/AmKbJ8YC1b5
