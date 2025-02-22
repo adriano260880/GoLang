@@ -16,3 +16,5 @@ https://go.dev/play/p/uqUX7Gu35VX
 json.Marshal: https://go.dev/play/p/AmKbJ8YC1b5
 
 json.Unmarshal: https://go.dev/play/p/dRKsUi594UE
+
+bcrypt: https://go.dev/play/p/yl29rVf0mN5
