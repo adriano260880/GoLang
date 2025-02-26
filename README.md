@@ -17,6 +17,8 @@ json.Marshal: https://go.dev/play/p/YCgclgIF9KC
 
 json.Unmarshal: https://go.dev/play/p/5B5J3wpqP4l
 
+json.NewEncoder: https://go.dev/play/p/EcTEJYW84bg
+
 bcrypt: https://go.dev/play/p/yl29rVf0mN5
 
 map: https://go.dev/play/p/jQ2FDEg9xfq
