@@ -24,3 +24,5 @@ bcrypt: https://go.dev/play/p/yl29rVf0mN5
 map: https://go.dev/play/p/jQ2FDEg9xfq
 
 Echo1: https://go.dev/play/p/SmToavae04D
+
+Continua o exercicio: https://go.dev/play/p/GXRfS_QAgrw
