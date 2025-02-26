@@ -20,3 +20,5 @@ json.Unmarshal: https://go.dev/play/p/5B5J3wpqP4l
 bcrypt: https://go.dev/play/p/yl29rVf0mN5
 
 map: https://go.dev/play/p/jQ2FDEg9xfq
+
+Echo1: https://go.dev/play/p/SmToavae04D
