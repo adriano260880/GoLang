@@ -25,4 +25,4 @@ map: https://go.dev/play/p/jQ2FDEg9xfq
 
 Echo1: https://go.dev/play/p/SmToavae04D
 
-Continua o exercicio: https://go.dev/play/p/GXRfS_QAgrw
+Continua o exercicio: https://go.dev/play/p/bEdme5U2qHL
