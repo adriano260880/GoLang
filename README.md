@@ -26,3 +26,5 @@ map: https://go.dev/play/p/jQ2FDEg9xfq
 Echo1: https://go.dev/play/p/SmToavae04D
 
 sort: https://go.dev/play/p/TJXuImMEq1v
+
+goRoutine: https://go.dev/play/p/splvTU0tpIm
