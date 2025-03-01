@@ -30,3 +30,5 @@ sort: https://go.dev/play/p/TJXuImMEq1v
 goRoutine: https://go.dev/play/p/splvTU0tpIm
 
 concorrencia: https://go.dev/play/p/K4k23mGOJeW
+
+mutex: https://go.dev/play/p/_UTzTz_4EyW
