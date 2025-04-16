@@ -34,3 +34,5 @@ concorrencia: https://go.dev/play/p/K4k23mGOJeW
 mutex: https://go.dev/play/p/_UTzTz_4EyW
 
 atomic: https://go.dev/play/p/Ljrofa9T4J9
+
+lista: https://go.dev/play/p/Mmzy7L5dUFB
