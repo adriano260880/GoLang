@@ -38,3 +38,5 @@ atomic: https://go.dev/play/p/Ljrofa9T4J9
 lista: https://go.dev/play/p/uC2Vo5jXlD9
 
 lista com for: https://go.dev/play/p/1wWoDVBGCRO
+
+map: https://go.dev/play/p/XIhQst2Hc2C
