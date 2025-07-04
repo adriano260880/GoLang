@@ -43,3 +43,5 @@ map: https://go.dev/play/p/XIhQst2Hc2C
 
 Range: https://go.dev/play/p/k90N_tDEaq_C
 
+Delete: https://go.dev/play/p/enbjTFUIu1e
+
