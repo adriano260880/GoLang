@@ -45,3 +45,5 @@ Range: https://go.dev/play/p/k90N_tDEaq_C
 
 Delete: https://go.dev/play/p/enbjTFUIu1e
 
+Exercicio: https://go.dev/play/p/LadKvFQ8inR
+
