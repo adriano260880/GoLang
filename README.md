@@ -47,3 +47,5 @@ Delete: https://go.dev/play/p/enbjTFUIu1e
 
 Exercicio: https://go.dev/play/p/LadKvFQ8inR
 
+Exercicio2: https://go.dev/play/p/xAx7OPprEnt
+
