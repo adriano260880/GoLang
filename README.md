@@ -49,3 +49,5 @@ Exercicio: https://go.dev/play/p/LadKvFQ8inR
 
 Exercicio2: https://go.dev/play/p/xAx7OPprEnt
 
+Funções: https://go.dev/play/p/eotRKRqENU6
+
