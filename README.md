@@ -51,3 +51,7 @@ Exercicio2: https://go.dev/play/p/xAx7OPprEnt
 
 Funções: https://go.dev/play/p/eotRKRqENU6
 
+Funções com retorno: https://go.dev/play/p/gYC5tia39vR
+
+Funções de operação: https://go.dev/play/p/YRg9CWhE6ls
+
