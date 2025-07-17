@@ -55,3 +55,8 @@ Funções com retorno: https://go.dev/play/p/gYC5tia39vR
 
 Funções de operação: https://go.dev/play/p/YRg9CWhE6ls
 
+Funções nomeadas: https://go.dev/play/p/RxNKgkk-YEj
+
+Escopo: https://go.dev/play/p/6yAxR9E9zGD
+
+Função Init(): https://go.dev/play/p/EzKPWG5QeIo
